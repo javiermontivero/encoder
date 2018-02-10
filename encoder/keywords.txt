@@ -1,0 +1,19 @@
+#################################################
+# Syntax Coloring Map For Bifrost HC-SR04 Library
+#################################################
+
+#################################################
+# Datatypes (KEYWORD1)
+#################################################
+Encoder	KEYWORD1
+
+#################################################
+# Methods and Functions (KEYWORD2)
+#################################################
+calculateWeightSpeed	KEYWORD2
+getWeight	KEYWORD2
+show1RMValue	KEYWORD2
+upPressed	KEYWORD2
+increaseWeight	KEYWORD2
+downPressed	KEYWORD2
+reduceWeight	KEYWORD2
